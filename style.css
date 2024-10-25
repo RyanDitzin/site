@@ -24,6 +24,12 @@ p{
 }
 
 footer{
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     color: black;
     text-align: center;
+}
+button{
+    background-color: #ffffff;
+    color: black;
+    font-size: x-large;
+}
